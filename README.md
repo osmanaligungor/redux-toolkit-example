@@ -23,3 +23,5 @@
 
 
 <h1>Preview</h1>
+
+![Screen Recording 2025-03-26 at 15 12 47](https://github.com/user-attachments/assets/a0bc9905-bc38-4d90-baba-a422e2a36df6)
