@@ -1,9 +1,25 @@
-# React + Vite
+<h1>Redux Toolkit Example</h1>
+  
+<p>This project is a modern simple Redux Toolkit application tracking site built using React and Vite. I used Redux Toolkit to simplify action and reducer management in the project, creating a more sustainable structure.It features a user-friendly design and was developed with the latest technologies. Various npm and React libraries were used to create a modern structure.</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1>Features</h1>
 
-Currently, two official plugins are available:
+<p>Responsive Layout: In this way, a compatible appearance is provided even on different screen sizes.</p>
+<p>Modern Design.</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# redux-toolkit-example
+<h1>Technologies Used</h1>
+
+<li>HTML5</li>
+<li>CSS3</li>
+<li>JAVASCRIPT</li>
+<li>REACT</li>
+<li>VITE</li>
+<li>tailwindcss</li>
+<li>react-router-dom</li>
+<li>redux</li>
+<li>react-redux</li>
+<li>@reduxjs/toolkit</li>
+<li>react-icons</li>
+
+
+<h1>Preview</h1>
